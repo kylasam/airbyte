@@ -1,2 +1,1 @@
-# airbyte
-Auto project template creator. Please feel free to modify as per the requirement.
+Standalone repo created by terraform
